@@ -1,0 +1,54 @@
+body
+{
+	background-color: #222222;
+	font-family: Arial;
+}
+
+h1
+{
+	color: white;
+	text-align: center;
+}
+
+.shapka
+{
+	width: 1510px;
+	filter: brightness(80%);
+}
+
+.avatar
+{
+	width: 160px;
+	filter: blur(0px);
+	position: absolute;
+	z-index: 1;
+	left: 680px;
+	top: 50px;
+	border-radius: 150px 150px 150px 150px;
+	border: solid 3px;
+}
+
+.ava
+{
+	width: 300px;
+	filter: blur(0px);
+
+}
+
+div
+{
+	color: white;
+	text-align: center;
+}
+
+a
+{
+	color: #3399FF;
+}
+
+.ap
+{
+	color: grey;
+	text-align: left;
+	font-size: 10px;
+}
